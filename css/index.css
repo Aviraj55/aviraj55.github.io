@@ -44,7 +44,7 @@ body {
 }
 
 .navbar-toggler {
-  border: 1px solid var(--accent);
+  border: 1px solid var(--primary);
 }
 
 .section {
@@ -220,6 +220,6 @@ h6[id]::before {
 }
 
 .fa-bars {
-  color: var(--accent);
+  color: var(--primary);
   padding-top: 5px;
 }
